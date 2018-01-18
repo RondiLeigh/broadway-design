@@ -3,6 +3,11 @@ h1, h2, h3, p {
 }
 
 h1{
-  font-size: 18px;
+  font-size: 70px;
+  font-weight: bold
   color: white;
+}
+
+h2{
+  font-size: 32px
 }
