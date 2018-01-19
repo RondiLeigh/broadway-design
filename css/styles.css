@@ -1,0 +1,36 @@
+Body {
+  text-align: center;
+}
+
+h1, h2, h3, p {
+  font-family: Helvetica;
+}
+
+
+h1 {
+  font-size: 70px;
+  color: white;
+  font-weight: bold;
+}
+.nav, h1 {  background-image: url("C:\Users\rondi\broadway-design\css\Images\the-flatiron-building.png");
+}
+
+h2 {
+  font-size: 32px
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+h4 {
+  font-size: 23px;
+  color: white;
+  font-weight: bold;
+  background
+}
+
+p {
+  font-size: 14px;
+}
